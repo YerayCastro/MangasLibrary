@@ -1,0 +1,1557 @@
+{
+	"items": [
+		{
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/1/157897l.jpg",
+			"startDate": "1989-08-25T00:00:00Z",
+			"themes": [
+				{
+					"theme": "Gore",
+					"id": "4AA69D54-4729-431F-AF5D-2E71CEC9E61D"
+				},
+				{
+					"theme": "Military",
+					"id": "44542DDE-56CD-4715-A2F3-CB5C58B8C093"
+				},
+				{
+					"theme": "Mythology",
+					"id": "072C9BCB-CCC9-4E6D-ABCC-CB7445934F53"
+				},
+				{
+					"theme": "Psychological",
+					"id": "277FBB4B-F71A-4F90-8241-5DC6D85482A1"
+				}
+			],
+			"chapters": null,
+			"id": 2,
+			"background": "Berserk won the Award for Excellence at the sixth installment of Tezuka Osamu Cultural Prize in 2002. The series has over 50 million copies in print worldwide and has been published in English by Dark Horse since November 4, 2003. It is also published in Italy, Germany, Spain, France, Brazil, South Korea, Hong Kong, Taiwan, Thailand, Poland, México and Turkey. In May 2021, the author Kentaro Miura suddenly died at the age of 54. Chapter 364 of Berserk was published posthumously on September 10, 2021. Miura would often share details about the series' story with his childhood friend and fellow mangaka Kouji Mori. Berserk resumed on June 24, 2022, with Studio Gaga handling the art and Kouji Mori's supervision.",
+			"authors": [
+				{
+					"id": "826945E9-2ECA-41E0-A2E1-C505DDE06599",
+					"lastName": "Miura",
+					"firstName": "Kentarou",
+					"role": "Story & Art"
+				},
+				{
+					"id": "67BB9151-B380-4931-A8BC-6E92D35FA041",
+					"lastName": "Studio Gaga",
+					"firstName": "",
+					"role": "Art"
+				}
+			],
+			"titleEnglish": "Berserk",
+			"demographics": [
+				{
+					"id": "D1286719-7903-4B57-9956-6152219972E8",
+					"demographic": "Seinen"
+				}
+			],
+			"title": "Berserk",
+			"score": 9.47,
+			"genres": [
+				{
+					"genre": "Action",
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0"
+				},
+				{
+					"genre": "Adventure",
+					"id": "FB73BD8F-28C4-42D6-BEA4-BBC960223C64"
+				},
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				},
+				{
+					"genre": "Drama",
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA"
+				},
+				{
+					"genre": "Fantasy",
+					"id": "1B0C8938-9EED-45E4-8782-C54C23207747"
+				},
+				{
+					"genre": "Horror",
+					"id": "79C8AAAE-AAF8-4CF1-A720-D64C5AFF5961"
+				},
+				{
+					"genre": "Supernatural",
+					"id": "3CE59EE7-EF32-4726-B1B9-DB255A3CBC85"
+				}
+			],
+			"sypnosis": "Guts, a former mercenary now known as the \"Black Swordsman,\" is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings.\n\nSetting out on a dreadful quest riddled with misfortune, Guts, armed with a massive sword and monstrous strength, will let nothing stop him, not even death itself, until he is finally able to take the head of the one who stripped him—and his loved one—of their humanity.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 14: Berserk: The Prototype",
+			"volumes": null,
+			"titleJapanese": "ベルセルク",
+			"status": "currently_publishing",
+			"url": "https://myanimelist.net/manga/2/Berserk"
+		},
+		{
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/253146l.jpg",
+			"startDate": "1997-07-22T00:00:00Z",
+			"id": 13,
+			"chapters": null,
+			"themes": [],
+			"background": "One Piece is the highest selling manga series of all time, with over 500 million copies in circulation as of 2022. Volume 67 of the series currently holds the record for highest first print run of any manga (including books) of all time in Japan, with 4.05 million in 2012. The series was a finalist for the Tezuka Osamu Cultural Prize three times in a row from 2000 to 2002. In 2012, it won the 41st Japan Cartoonists Association Award Grand Prize, alongside Kimuchi Yokoyama's Neko Darake. VIZ Media has published One Piece in English under the Shonen Jump imprint since January 2, 2003 and in 3-in-1 omnibus editions since December 1, 2009. VIZ Media released three boxed sets for the manga; the first including the first 23 volumes released on November 5, 2013, the second including volumes 24-46 released on November 4, 2014, and the third including volumes 47-70 released on October 4, 2016. The series has also been published in numerous amounts of languages worldwide including; Korean, Malay, Indonesian, Chinese, Thai, Vietnamese, German, French, Italian, Spanish, Portuguese, Swedish, Danish, Norwegian, Finnish, Polish, Turkish, and Russian.",
+			"authors": [
+				{
+					"id": "FD2A144A-66FD-4712-8D1C-C72CE8E6FA0F",
+					"firstName": "Eiichiro",
+					"lastName": "Oda",
+					"role": "Story & Art"
+				}
+			],
+			"titleEnglish": "One Piece",
+			"demographics": [
+				{
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169",
+					"demographic": "Shounen"
+				}
+			],
+			"title": "One Piece",
+			"score": 9.22,
+			"sypnosis": "Gol D. Roger, a man referred to as the \"King of the Pirates,\" is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the King of the Pirates is executed and the Great Age of Pirates begins.\n\nTwenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new King of the Pirates. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas.\n\n[Written by MAL Rewrite]",
+			"genres": [
+				{
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0",
+					"genre": "Action"
+				},
+				{
+					"id": "FB73BD8F-28C4-42D6-BEA4-BBC960223C64",
+					"genre": "Adventure"
+				},
+				{
+					"id": "1B0C8938-9EED-45E4-8782-C54C23207747",
+					"genre": "Fantasy"
+				}
+			],
+			"volumes": null,
+			"titleJapanese": "ONE PIECE",
+			"status": "currently_publishing",
+			"url": "https://myanimelist.net/manga/13/One_Piece"
+		},
+		{
+			"endDate": "2011-04-19T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/179882l.jpg",
+			"startDate": "2004-01-19T00:00:00Z",
+			"id": 1706,
+			"themes": [
+				{
+					"id": "475B8B2E-EE5D-4DF8-B207-1BE39875FA07",
+					"theme": "Historical"
+				}
+			],
+			"chapters": 96,
+			"authors": [
+				{
+					"id": "A2144264-3691-4C19-B151-1C5DF5D3283D",
+					"firstName": "Hirohiko",
+					"lastName": "Araki",
+					"role": "Story & Art"
+				}
+			],
+			"background": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run was originally presented as an unrelated story to the JoJo series and was serialized in Weekly Shounen Jump magazine as Steel Ball Run from issues #8~47 2004. Serialization then transferred to Ultra Jump magazine from issue May 2005 and the series was officially declared as Part 7 of the JoJo no Kimyou na Bouken series.",
+			"titleEnglish": null,
+			"demographics": [
+				{
+					"demographic": "Seinen",
+					"id": "D1286719-7903-4B57-9956-6152219972E8"
+				},
+				{
+					"demographic": "Shounen",
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169"
+				}
+			],
+			"title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+			"score": 9.3,
+			"genres": [
+				{
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0",
+					"genre": "Action"
+				},
+				{
+					"id": "FB73BD8F-28C4-42D6-BEA4-BBC960223C64",
+					"genre": "Adventure"
+				},
+				{
+					"id": "9C7B27B9-A0CF-4687-BF05-08F28E05C8CE",
+					"genre": "Mystery"
+				},
+				{
+					"id": "3CE59EE7-EF32-4726-B1B9-DB255A3CBC85",
+					"genre": "Supernatural"
+				}
+			],
+			"sypnosis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
+			"volumes": 24,
+			"titleJapanese": "ジョジョの奇妙な冒険 Part7 STEEL BALL RUN",
+			"status": "finished",
+			"url": "https://myanimelist.net/manga/1706/JoJo_no_Kimyou_na_Bouken_Part_7__Steel_Ball_Run"
+		},
+		{
+			"genres": [
+				{
+					"genre": "Drama",
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA"
+				},
+				{
+					"genre": "Slice of Life",
+					"id": "E23AEB35-C2B3-4DC5-9C6F-6AF9C65E3A31"
+				}
+			],
+			"url": "https://myanimelist.net/manga/4632/Oyasumi_Punpun",
+			"titleJapanese": "おやすみプンプン",
+			"authors": [
+				{
+					"lastName": "Asano",
+					"role": "Story & Art",
+					"firstName": "Inio",
+					"id": "F58BDA21-52FF-408F-813D-AEF1F347849B"
+				}
+			],
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/266834l.jpg",
+			"themes": [
+				{
+					"theme": "Psychological",
+					"id": "277FBB4B-F71A-4F90-8241-5DC6D85482A1"
+				}
+			],
+			"demographics": [
+				{
+					"demographic": "Seinen",
+					"id": "D1286719-7903-4B57-9956-6152219972E8"
+				}
+			],
+			"id": 4632,
+			"volumes": 13,
+			"background": "Oyasumi Punpun was originally serialized in Young Sunday, but moved to Big Comic Spirits on October 20, 2008 (47th issue). It received a Jury Recommendation at the 13th Japan Media Arts Festival Awards in 2009. The series was published in English as Goodnight Punpun by VIZ Media under the VIZ Signature imprint in 7 omnibus volumes from March 15, 2016 to September 19, 2017. It was also published in Spanish as Buenas noches, Punpun by Norma Editorial from October 29, 2015 to October 29, 2016; in Italian as Buonanotte, Punpun by Panini Comics from April 14, 2011 to July 31, 2014; and has been published by Editorial Ivrea in Argentina since July 21, 2017.",
+			"endDate": "2013-11-02T00:00:00Z",
+			"title": "Oyasumi Punpun",
+			"titleEnglish": "Goodnight Punpun",
+			"score": 9.02,
+			"sypnosis": "Punpun Onodera is a normal 11-year-old boy living in Japan. Hopelessly idealistic and romantic, Punpun begins to see his life take a subtle—though nonetheless startling—turn to the adult when he meets the new girl in his class, Aiko Tanaka. It is then that the quiet boy learns just how fickle maintaining a relationship can be, and the surmounting difficulties of transitioning from a naïve boyhood to a convoluted adulthood. When his father assaults his mother one night, Punpun realizes another thing: those whom he looked up to were not as impressive as he once thought.\n\nAs his problems increase, Punpun's once shy demeanor turns into voluntary reclusiveness. Rather than curing him of his problems and conflicting emotions, this merely intensifies them, sending him down the dark path of maturity in this grim coming-of-age saga.\n\n[Written by MAL Rewrite]",
+			"startDate": "2007-03-15T00:00:00Z",
+			"chapters": 147,
+			"status": "finished"
+		},
+		{
+			"id": 25,
+			"status": "finished",
+			"url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+			"titleEnglish": "Fullmetal Alchemist",
+			"authors": [
+				{
+					"lastName": "Arakawa",
+					"id": "E2DC304B-E25A-4CD6-A962-4162F7033538",
+					"role": "Story & Art",
+					"firstName": "Hiromu"
+				}
+			],
+			"score": 9.03,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/243675l.jpg",
+			"startDate": "2001-07-12T00:00:00Z",
+			"demographics": [
+				{
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169",
+					"demographic": "Shounen"
+				}
+			],
+			"sypnosis": "Alchemists are knowledgeable and naturally talented individuals who can manipulate and modify matter due to their art. Yet despite the wide range of possibilities, alchemy is not as all-powerful as most would believe. Human transmutation is strictly forbidden, and whoever attempts it risks severe consequences. Even so, siblings Edward and Alphonse Elric decide to ignore this great taboo and bring their mother back to life. Unfortunately, not only do they fail in resurrecting her, they also pay an extremely high price for their arrogance: Edward loses his left leg and Alphonse his entire body. Furthermore, Edward also gives up his right arm in order to seal his brother's soul into a suit of armor.\n\nYears later, the young alchemists travel across the country looking for the Philosopher's Stone, in the hopes of recovering their old bodies with its power. However, their quest for the fated stone also leads them to unravel far darker secrets than they could ever imagine.\n\n[Written by MAL Rewrite]",
+			"genres": [
+				{
+					"genre": "Action",
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0"
+				},
+				{
+					"genre": "Adventure",
+					"id": "FB73BD8F-28C4-42D6-BEA4-BBC960223C64"
+				},
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				},
+				{
+					"genre": "Drama",
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA"
+				},
+				{
+					"genre": "Fantasy",
+					"id": "1B0C8938-9EED-45E4-8782-C54C23207747"
+				}
+			],
+			"themes": [
+				{
+					"theme": "Military",
+					"id": "44542DDE-56CD-4715-A2F3-CB5C58B8C093"
+				}
+			],
+			"volumes": 27,
+			"endDate": "2010-09-11T00:00:00Z",
+			"chapters": 116,
+			"title": "Fullmetal Alchemist",
+			"background": "Hagane no Renkinjutsushi won the 49th Shogakukan Manga Award for the shounen demographic in 2004. Hiromu Arakawa also won the 15th Tezuka Osamu Cultural Prize in the New Artist Prize category for the series in 2011. As of 2015, over 64 million copies of the series have been sold worldwide, making it one of Square Enix's most successful publications, according to Nielsen Bookscan. A live-action film is in development by Warner Bros. Japan and is scheduled for release in Winter 2017. The series was published in English as Fullmetal Alchemist by VIZ Media from May 3, 2005 to December 20, 2011, and in eBook format by Yen Press on April 15, 2014. A 3-in-1 omnibus edition was released by VIZ from June 7, 2011 to November 11, 2014 as well as a complete box set in November 1, 2011 (which included the novel Fullmetal Alchemist: The Ties That Bind). The manga was also published in Italian by Panini Comics under the Planet Manga imprint from July 13, 2006 to September 3, 2011, in Polish by J.P. Fantastica from January 2006 to to April 2012, in Brazilian Portuguese by Jbc from February 2007 to April 2011 and in Spanish by Ivrea Argentina starting December 12, 2016.",
+			"titleJapanese": "鋼の錬金術師"
+		},
+		{
+			"title": "Mousou Elektel dj - Shinaide + Elektel",
+			"sypnosis": "Maya x Nemu pair celebrate new years together. Meanwhile, the Fumi x Shunpei pair win a trip to a beach onsen.",
+			"volumes": 1,
+			"startDate": "2012-08-12T00:00:00Z",
+			"authors": [
+				{
+					"firstName": "Yonezou",
+					"role": "Story & Art",
+					"lastName": "Nekota",
+					"id": "97BAE618-B76D-47C3-AA41-1C78E4B41643"
+				}
+			],
+			"genres": [
+				{
+					"genre": "Boys Love",
+					"id": "E895D6F3-BB76-4260-B86D-777E69C57D89"
+				},
+				{
+					"genre": "Erotica",
+					"id": "B304BC9D-C113-443C-BA54-25A41584CF0F"
+				}
+			],
+			"background": null,
+			"themes": [
+				{
+					"theme": "School",
+					"id": "3373890E-8E6C-4AB8-A190-FEC6E8C7369D"
+				}
+			],
+			"status": "finished",
+			"endDate": "2012-08-12T00:00:00Z",
+			"chapters": 2,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/79097l.jpg",
+			"titleEnglish": null,
+			"url": "https://myanimelist.net/manga/44737/Mousou_Elektel_dj_-_Shinaide___Elektel",
+			"id": 44737,
+			"titleJapanese": "Shinaide + Elektel",
+			"demographics": [],
+			"score": 7.67
+		},
+		{
+			"title": "Vagabond",
+			"sypnosis": "In 16th-century Japan, Shinmen Takezou is a wild, rough young man, in both his appearance and his actions. His aggressive nature has won him the collective reproach and fear of his village, leading him and his best friend, Matahachi Honiden, to run away in search of something grander than provincial life. The pair enlist in the Toyotomi army, yearning for glory—but when the Toyotomi suffer a crushing defeat at the hands of the Tokugawa Clan at the Battle of Sekigahara, the friends barely make it out alive.\n\nAfter the two are separated, Shinmen returns home on a self-appointed mission to notify the Hon'iden family of Matahachi's survival. He instead finds himself a wanted criminal, framed for his friend's supposed murder based on his history of violence. Upon being captured, he is strung up on a tree and left to die. An itinerant monk, the distinguished Takuan Soho, takes pity on the \"devil child,\" secretly freeing Shinmen and christening him with a new name to avoid pursuit by the authorities: Musashi Miyamoto.\n\nVagabond is the fictitious retelling of the life of one of Japan's most renowned swordsmen, the \"Sword Saint\" Musashi Miyamoto—his rise from a swordsman with no desire other than to become \"Invincible Under the Heavens\" to an enlightened warrior who slowly learns of the importance of close friends, self-reflection, and life itself.\n\n[Written by MAL Rewrite]",
+			"volumes": 37,
+			"authors": [
+				{
+					"firstName": "Takehiko",
+					"id": "54FC06F5-546C-4FA0-A5A6-48317E78C454",
+					"role": "Story & Art",
+					"lastName": "Inoue"
+				},
+				{
+					"firstName": "Eiji",
+					"id": "AFA26A2A-E2F6-4A1D-8A9F-B8B29CEEED6C",
+					"role": "Story",
+					"lastName": "Yoshikawa"
+				}
+			],
+			"startDate": "1998-09-03T00:00:00Z",
+			"genres": [
+				{
+					"genre": "Action",
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0"
+				},
+				{
+					"genre": "Adventure",
+					"id": "FB73BD8F-28C4-42D6-BEA4-BBC960223C64"
+				},
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				}
+			],
+			"background": "In 2000, Vagabond won the Japan Media Arts Festival Manga Grand Prize and the 24th Kodansha Manga Award in the general category. The series won the Tezuka Osamu Cultural Prize in 2002 and has had over 82 million copies sold worldwide. Vagabond has been published in English by VIZ Media under the VIZ Signature imprint since April 5, 2002, and in large 3-in-1 omnibuses under the VIZBIG imprint since September 16, 2008. The English release got Takehiko Inoue a nomination for the Eisner Award in the Best Writer/Artist category in 2003. It also has been published in Brazilian Portuguese by Panini Comics/Planet Manga since February 2016.",
+			"themes": [
+				{
+					"id": "475B8B2E-EE5D-4DF8-B207-1BE39875FA07",
+					"theme": "Historical"
+				},
+				{
+					"id": "C9C8B5E2-AA3B-4672-B65F-38D647C86E32",
+					"theme": "Samurai"
+				}
+			],
+			"status": "on_hiatus",
+			"endDate": "2015-05-21T00:00:00Z",
+			"chapters": 327,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/1/259070l.jpg",
+			"url": "https://myanimelist.net/manga/656/Vagabond",
+			"titleEnglish": "Vagabond",
+			"titleJapanese": "バガボンド",
+			"id": 656,
+			"demographics": [
+				{
+					"id": "D1286719-7903-4B57-9956-6152219972E8",
+					"demographic": "Seinen"
+				}
+			],
+			"score": 9.24
+		},
+		{
+			"status": "currently_publishing",
+			"demographics": [
+				{
+					"id": "D1286719-7903-4B57-9956-6152219972E8",
+					"demographic": "Seinen"
+				}
+			],
+			"themes": [
+				{
+					"theme": "Historical",
+					"id": "475B8B2E-EE5D-4DF8-B207-1BE39875FA07"
+				}
+			],
+			"sypnosis": "Thorfinn, son of one of the Vikings' greatest warriors, is among the finest fighters in the merry band of mercenaries run by the cunning Askeladd, an impressive feat for a person his age. However, Thorfinn is not part of the group for the plunder it entails—instead, for having caused his family great tragedy, the boy has vowed to kill Askeladd in a fair duel. Not yet skilled enough to defeat him, but unable to abandon his vengeance, Thorfinn spends his boyhood with the mercenary crew, honing his skills on the battlefield among the war-loving Danes, where killing is just another pleasure of life.\n\nOne day, when Askeladd receives word that Danish prince Canute has been taken hostage, he hatches an ambitious plot—one that will decide the next King of England and drastically alter the lives of Thorfinn, Canute, and himself. Set in 11th-century Europe, Vinland Saga tells a bloody epic in an era where violence, madness, and injustice are inescapable, providing a paradise for the battle-crazed and utter hell for the rest who live in it.\n\n[Written by MAL Rewrite]",
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/188925l.jpg",
+			"url": "https://myanimelist.net/manga/642/Vinland_Saga",
+			"titleJapanese": "ヴィンランド・サガ",
+			"genres": [
+				{
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0",
+					"genre": "Action"
+				},
+				{
+					"id": "FB73BD8F-28C4-42D6-BEA4-BBC960223C64",
+					"genre": "Adventure"
+				},
+				{
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB",
+					"genre": "Award Winning"
+				},
+				{
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA",
+					"genre": "Drama"
+				}
+			],
+			"volumes": null,
+			"background": "Vinland Saga won the 13th Japan Media Arts Award Grand Prize in the Manga division and the 36th Kodansha Manga Award for Best General Manga (which mangaka Makoto Yukimura accepted in full viking gear). An animated crossover between Vinland Saga and Ponkotsu Quest titled Ponkotsuland Saga was released on October 24, 2015. The series has been published in English by Kodansha Comics USA in 2-in-1 hardcover omnibuses since October 14, 2013. The release includes Makoto Yukimura's Sayonara ga Chikai no de (For Our Farewell Is Near) spread across the first five volumes. It is also published in Brazilian Portuguese by Panini Comics since February 2014; in Spanish by Planeta Cómic since October 21, 2014; and in Polish by Hanami since January 2017.",
+			"id": 642,
+			"titleEnglish": "Vinland Saga",
+			"score": 9.05,
+			"authors": [
+				{
+					"id": "51BFB7BE-AD83-4B10-B18C-25DDB7F6311D",
+					"firstName": "Makoto",
+					"role": "Story & Art",
+					"lastName": "Yukimura"
+				}
+			],
+			"chapters": null,
+			"title": "Vinland Saga",
+			"startDate": "2005-04-13T00:00:00Z"
+		},
+		{
+			"status": "finished",
+			"demographics": [
+				{
+					"demographic": "Seinen",
+					"id": "D1286719-7903-4B57-9956-6152219972E8"
+				}
+			],
+			"sypnosis": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.\n\nHowever, the truth is that after spending so much time together, the two have developed feelings for one another; unfortunately, neither is willing to confess, as doing so would be a sign of weakness. With their pride as elite students on the line, Miyuki and Kaguya embark on a quest to do whatever is necessary to get a confession out of the other. Through their daily antics, the battle of love begins!\n\n[Written by MAL Rewrite]",
+			"themes": [
+				{
+					"theme": "Romantic Subtext",
+					"id": "2C5F2842-442F-4FB5-8C09-A1C0E3E044FC"
+				},
+				{
+					"theme": "School",
+					"id": "3373890E-8E6C-4AB8-A190-FEC6E8C7369D"
+				}
+			],
+			"endDate": "2022-11-02T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/188896l.jpg",
+			"url": "https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen",
+			"volumes": 28,
+			"titleJapanese": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+			"genres": [
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				},
+				{
+					"genre": "Comedy",
+					"id": "955A4456-EE84-4217-B15C-27C33760C371"
+				}
+			],
+			"background": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen has been published in English as Kaguya-sama: Love Is War by VIZ Media under the Shonen Jump imprint since March 6, 2018.",
+			"id": 90125,
+			"titleEnglish": "Kaguya-sama: Love Is War",
+			"score": 8.92,
+			"authors": [
+				{
+					"lastName": "Akasaka",
+					"role": "Story & Art",
+					"firstName": "Aka",
+					"id": "2C233D52-AFD5-40F3-983C-7DE208A7276C"
+				}
+			],
+			"chapters": 281,
+			"title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+			"startDate": "2015-05-19T00:00:00Z"
+		},
+		{
+			"status": "currently_publishing",
+			"demographics": [
+				{
+					"demographic": "Shounen",
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169"
+				}
+			],
+			"themes": [
+				{
+					"theme": "Gore",
+					"id": "4AA69D54-4729-431F-AF5D-2E71CEC9E61D"
+				}
+			],
+			"sypnosis": "Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.\n\nUnfortunately, he has outlived his usefulness and is murdered by a devil in contract with the yakuza. However, in an unexpected turn of events, Pochita merges with Denji's dead body and grants him the powers of a chainsaw devil. Now able to transform parts of his body into chainsaws, a revived Denji uses his new abilities to quickly and brutally dispatch his enemies. Catching the eye of the official devil hunters who arrive at the scene, he is offered work at the Public Safety Bureau as one of them. Now with the means to face even the toughest of enemies, Denji will stop at nothing to achieve his simple teenage dreams.\n\n[Written by MAL Rewrite]",
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/216464l.jpg",
+			"url": "https://myanimelist.net/manga/116778/Chainsaw_Man",
+			"volumes": null,
+			"titleJapanese": "チェンソーマン",
+			"genres": [
+				{
+					"genre": "Action",
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0"
+				},
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				},
+				{
+					"genre": "Supernatural",
+					"id": "3CE59EE7-EF32-4726-B1B9-DB255A3CBC85"
+				}
+			],
+			"id": 116778,
+			"background": "As part of the JUMP START initiative, the first three chapters of Chainsaw Man were published in English in VIZ Media's digital Weekly Shounen Jump on the same day as the Japanese release. It has been published digitally as an English simulpub through MANGA Plus. The volumes have been published in English by VIZ Media under the Shonen Jump imprint since October 6, 2020. The first part of the series ended with 97 chapters on December 14, 2020. Serialization of the second part began on Shounen Jump+ with the release of chapter 98 on July 13, 2022.",
+			"titleEnglish": "Chainsaw Man",
+			"score": 8.75,
+			"authors": [
+				{
+					"lastName": "Fujimoto",
+					"role": "Story & Art",
+					"firstName": "Tatsuki",
+					"id": "9EF0A753-7845-4766-905B-85E486CAF05E"
+				}
+			],
+			"chapters": null,
+			"title": "Chainsaw Man",
+			"startDate": "2018-12-03T00:00:00Z"
+		},
+		{
+			"sypnosis": "Kenzou Tenma, a renowned Japanese neurosurgeon working in post-war Germany, faces a difficult choice: to operate on Johan Liebert, an orphan boy on the verge of death, or on the mayor of Düsseldorf. In the end, Tenma decides to gamble his reputation by saving Johan, effectively leaving the mayor for dead.\n\nAs a consequence of his actions, hospital director Heinemann strips Tenma of his position, and Heinemann's daughter Eva breaks off their engagement. Disgraced and shunned by his colleagues, Tenma loses all hope of a successful career—that is, until the mysterious killing of Heinemann gives him another chance.\n\nNine years later, Tenma is the head of the surgical department and close to becoming the director himself. Although all seems well for him at first, he soon becomes entangled in a chain of gruesome murders that have taken place throughout Germany. The culprit is a monster—the same one that Tenma saved on that fateful day nine years ago.\n\n[Written by MAL Rewrite]",
+			"demographics": [
+				{
+					"demographic": "Seinen",
+					"id": "D1286719-7903-4B57-9956-6152219972E8"
+				}
+			],
+			"themes": [
+				{
+					"theme": "Adult Cast",
+					"id": "1FC51E89-E699-4539-85EA-0ACFE7AD16CA"
+				},
+				{
+					"theme": "Psychological",
+					"id": "277FBB4B-F71A-4F90-8241-5DC6D85482A1"
+				}
+			],
+			"status": "finished",
+			"endDate": "2001-12-20T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/258224l.jpg",
+			"url": "https://myanimelist.net/manga/1/Monster",
+			"titleJapanese": "MONSTER",
+			"volumes": 18,
+			"genres": [
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				},
+				{
+					"genre": "Drama",
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA"
+				},
+				{
+					"genre": "Mystery",
+					"id": "9C7B27B9-A0CF-4687-BF05-08F28E05C8CE"
+				}
+			],
+			"background": "Monster won the Grand Prize at the 3rd annual Tezuka Osamu Cultural Prize in 1999, as well as the 46th Shogakukan Manga Award in the General category in 2000. The series was published in English by VIZ Media under the VIZ Signature imprint from February 21, 2006 to December 16, 2008, and again in 2-in-1 omnibuses (subtitled The Perfect Edition) from July 15, 2014 to July 19, 2016. The manga was also published in Brazilian Portuguese by Panini Comics/Planet Manga from June 2012 to April 2015, in Polish by Hanami from March 2014 to February 2017, in Spain by Planeta Cómic from June 16, 2009 to September 21, 2010, and in Argentina by LARP Editores.",
+			"id": 1,
+			"titleEnglish": "Monster",
+			"score": 9.15,
+			"authors": [
+				{
+					"lastName": "Urasawa",
+					"role": "Story & Art",
+					"firstName": "Naoki",
+					"id": "102DF9E0-1676-4ED6-975D-48D3AEF8BFFE"
+				}
+			],
+			"chapters": 162,
+			"title": "Monster",
+			"startDate": "1994-12-05T00:00:00Z"
+		},
+		{
+			"sypnosis": "Shouya Ishida, a mischievous elementary school student, finds himself troubled by deaf transfer student Shouko Nishimiya. Despite her genuine attempts to befriend her new classmates, Shouko only proves herself to be an annoyance for Shouya and his friends, provoking them to ridicule her at any possible chance. Soon enough, their taunts turn into constant assault—yet the teachers heartlessly remain apathetic to the situation.\n\nShouya's misdeeds are finally stopped when Shouko transfers to another school. Denying their involvement, the entire class puts the blame on Shouya. As the new victim of bullying, Shouya gradually becomes meek and reclusive, being treated with contempt and disregard for years to come.\n\nNow a high school student, Shouya meets Shouko again for the first time in five years. Still tormented by his past actions, Shouya is determined to make amends for his mistakes and confront his trauma—even if he must face arduous obstacles along the way.\n\n[Written by MAL Rewrite]",
+			"status": "finished",
+			"themes": [
+				{
+					"id": "2C5F2842-442F-4FB5-8C09-A1C0E3E044FC",
+					"theme": "Romantic Subtext"
+				}
+			],
+			"demographics": [
+				{
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169",
+					"demographic": "Shounen"
+				}
+			],
+			"endDate": "2014-11-19T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/1/120529l.jpg",
+			"url": "https://myanimelist.net/manga/56805/Koe_no_Katachi",
+			"volumes": 7,
+			"titleJapanese": "聲の形",
+			"genres": [
+				{
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB",
+					"genre": "Award Winning"
+				},
+				{
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA",
+					"genre": "Drama"
+				}
+			],
+			"id": 56805,
+			"background": "Before Koe no Katachi was serialized, the Japanese Federation of the Deaf reviewed the publication due to its subject matter and endorsed the series. The series ranked first on Kono Manga ga Sugoi!'s top 20 manga for male readers in 2015; in the same year, it was nominated for the 19th Tezuka Osamu Cultural Prize and later won the New Creator Prize. It was also nominated for the eighth Manga Taishou Award and the 38th Kodansha Manga Award in the best shounen category. The manga placed in the Top Ten of the Young Adult Library Services Association's 2016 and 2017 Great Graphic Novels for Teens list. The series was published in English by Kodansha Comics USA as A Silent Voice from May 26, 2015 to May 24, 2016, and again in a complete box set on December 19, 2017. Crunchyroll simultaneously published the series. The manga was also released in Chinese by Tong Li Publishing Co., Ltd.; in French by Éditions Ki-oon; in Indonesian by m&c!; in Italian by Edizioni Star Comics; in Portuguese by NewPOP; in Russian by Istari Comics; and in Spanish by Milky Way Ediciones.",
+			"titleEnglish": "A Silent Voice",
+			"score": 8.86,
+			"authors": [
+				{
+					"role": "Story & Art",
+					"firstName": "Yoshitoki",
+					"id": "909C3A73-F016-4A50-A008-AE6864A6325B",
+					"lastName": "Ooima"
+				}
+			],
+			"chapters": 64,
+			"title": "Koe no Katachi",
+			"startDate": "2013-08-07T00:00:00Z"
+		},
+		{
+			"sypnosis": "After rigorously training for three years, the ordinary Saitama has gained immense strength which allows him to take out anyone and anything with just one punch. He decides to put his new skill to good use by becoming a hero. However, he quickly becomes bored with easily defeating monsters, and wants someone to give him a challenge to bring back the spark of being a hero.\n\nUpon bearing witness to Saitama's amazing power, Genos, a cyborg, is determined to become Saitama's apprentice. During this time, Saitama realizes he is neither getting the recognition that he deserves nor known by the people due to him not being a part of the Hero Association. Wanting to boost his reputation, Saitama decides to have Genos register with him, in exchange for taking him in as a pupil. Together, the two begin working their way up toward becoming true heroes, hoping to find strong enemies and earn respect in the process.\n\n[Written by MAL Rewrite]",
+			"status": "currently_publishing",
+			"demographics": [
+				{
+					"id": "D1286719-7903-4B57-9956-6152219972E8",
+					"demographic": "Seinen"
+				}
+			],
+			"themes": [
+				{
+					"id": "7EDA57A0-1676-4F58-A8C6-3CA3DA5A8EEC",
+					"theme": "Parody"
+				},
+				{
+					"id": "D1249C7C-06D2-49B1-9AA7-E2964C8C3DCD",
+					"theme": "Super Power"
+				}
+			],
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/80661l.jpg",
+			"url": "https://myanimelist.net/manga/44347/One_Punch-Man",
+			"volumes": null,
+			"genres": [
+				{
+					"genre": "Action",
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0"
+				},
+				{
+					"genre": "Comedy",
+					"id": "955A4456-EE84-4217-B15C-27C33760C371"
+				}
+			],
+			"titleJapanese": "ワンパンマン",
+			"background": "One Punch-Man is the manga remake of the original web comic by ONE. In 2014, the series was nominated for the 7th annual Manga Taishou Award and was ranked 7th place. The manga is published in English by VIZ Media under the Shonen Jump imprint; digitally since February 18, 2014, and physically since September 1, 2015. The English version was nominated for the 2015 Eisner Award for Best U.S. Edition of International Material—Asia. It is also published in Polish by J.P. Fantastica since December 5, 2015, in Spanish by Ivrea España since December 31, 2015, in Portuguese (Brazil) by Panini Comics since March 19, 2016, and has been published in Italian by Panini Comics under the Planet Manga imprint since April 7, 2016.",
+			"id": 44347,
+			"titleEnglish": "One-Punch Man",
+			"score": 8.75,
+			"authors": [
+				{
+					"lastName": "Murata",
+					"role": "Art",
+					"firstName": "Yusuke",
+					"id": "FF409B71-A4BC-4925-A146-2E3DE55A314D"
+				},
+				{
+					"lastName": "ONE",
+					"role": "Story",
+					"firstName": "",
+					"id": "5DA8D804-FC7C-47C8-98F4-2977EFC6F467"
+				}
+			],
+			"chapters": null,
+			"title": "One Punch-Man",
+			"startDate": "2012-06-14T00:00:00Z"
+		},
+		{
+			"startDate": "1999-09-27T00:00:00Z",
+			"demographics": [
+				{
+					"demographic": "Seinen",
+					"id": "D1286719-7903-4B57-9956-6152219972E8"
+				}
+			],
+			"themes": [
+				{
+					"id": "475B8B2E-EE5D-4DF8-B207-1BE39875FA07",
+					"theme": "Historical"
+				},
+				{
+					"id": "277FBB4B-F71A-4F90-8241-5DC6D85482A1",
+					"theme": "Psychological"
+				}
+			],
+			"sypnosis": "As the 20th century approaches its end, people all over the world are anxious that the world is changing. And probably not for the better.\n\nKenji Endo is a normal convenience store manager who's just trying to get by. But when he learns that one of his old friends going by the name \"Donkey\" has suddenly committed suicide, and that a new cult led by a figure known as \"Friend\" is becoming more notorious, Kenji starts to feel that something isn't right. With a few key clues left behind by his deceased friend, Kenji realizes that this cult is much more than he ever thought it would be—not only is this mysterious organization directly targeting him and his childhood friends, but the whole world also faces a grave danger that only the friends have the key to stop.\n\nKenji's simple life of barely making ends meet is flipped upside down when he reunites with his childhood friends, and together they must figure out the truth of how their past is connected to the cult, as the turn of the century could mean the possible end of the world.\n\n[Written by MAL Rewrite]",
+			"endDate": "2006-04-24T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/5/260006l.jpg",
+			"url": "https://myanimelist.net/manga/3/20th_Century_Boys",
+			"volumes": 22,
+			"genres": [
+				{
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB",
+					"genre": "Award Winning"
+				},
+				{
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA",
+					"genre": "Drama"
+				},
+				{
+					"id": "9C7B27B9-A0CF-4687-BF05-08F28E05C8CE",
+					"genre": "Mystery"
+				},
+				{
+					"id": "0E7C7960-CF57-44F4-B498-7562348D638E",
+					"genre": "Sci-Fi"
+				}
+			],
+			"titleJapanese": "20世紀少年",
+			"id": 3,
+			"background": "20th Century Boys won the Kodansha Manga Award in the general category in 2001, an Excellence Prize at the Japan Media Arts Festival in 2002, and the Shogakukan Manga Award in the general category in 2003. The series' combined storyline won the Grand Prize at the 37th Japan Cartoonist Awards on May 9, 2008. VIZ Media published the series in English under the VIZ Signature imprint from February 17, 2009 to September 18, 2012. VIZ Media licensed the series in 2005; however, at Urasawa's request, it was rescheduled for release after Monster finished its English publication due to a change in art style over time. The series has also been published in Brazilian Portuguese by Panini Comics/Planet Manga since September 2012. The series was adapted into a trilogy of live-action films which released in Japan between August 30, 2008 and August 29, 2009.",
+			"titleEnglish": "20th Century Boys",
+			"score": 8.95,
+			"authors": [
+				{
+					"lastName": "Urasawa",
+					"id": "102DF9E0-1676-4ED6-975D-48D3AEF8BFFE",
+					"firstName": "Naoki",
+					"role": "Story & Art"
+				}
+			],
+			"chapters": 249,
+			"title": "20th Century Boys",
+			"status": "finished"
+		},
+		{
+			"status": "finished",
+			"demographics": [
+				{
+					"demographic": "Shounen",
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169"
+				}
+			],
+			"themes": [
+				{
+					"theme": "Psychological",
+					"id": "277FBB4B-F71A-4F90-8241-5DC6D85482A1"
+				}
+			],
+			"sypnosis": "Ryuk, a god of death, drops his Death Note into the human world for personal pleasure. In Japan, prodigious high school student Light Yagami stumbles upon it. Inside the notebook, he finds a chilling message: those whose names are written in it shall die. Its nonsensical nature amuses Light; but when he tests its power by writing the name of a criminal in it, they suddenly meet their demise. \n\nRealizing the Death Note's vast potential, Light commences a series of nefarious murders under the pseudonym \"Kira,\" vowing to cleanse the world of corrupt individuals and create a perfect society where crime ceases to exist. However, the police quickly catch on, and they enlist the help of L—a mastermind detective—to uncover the culprit.\n\nDeath Note tells the thrilling tale of Light and L as they clash in a great battle-of-minds, one that will determine the future of the world.\n\n[Written by MAL Rewrite]",
+			"endDate": "2006-05-15T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/1/258245l.jpg",
+			"url": "https://myanimelist.net/manga/21/Death_Note",
+			"genres": [
+				{
+					"genre": "Supernatural",
+					"id": "3CE59EE7-EF32-4726-B1B9-DB255A3CBC85"
+				},
+				{
+					"genre": "Suspense",
+					"id": "FDC04D11-0728-4930-9E92-8C716C0ED3CF"
+				}
+			],
+			"titleJapanese": "DEATH NOTE",
+			"volumes": 12,
+			"background": "Death Note has inspired three live-action films, a TV drama series as well as a stage musical. The series has also inspired numerous copycat crimes outside of Japan. The manga was published in English by VIZ Media under the Shonen Jump Advanced imprint from October 10, 2005 and July 3, 2007 and again in 2-in-1 omnibuses (subtitled Black edition) from December 28, 2010 to November 1, 2011. There have been several more rereleases of the series: a special hardcover edition of the first volume on September 16, 2008, a complete box set on October 7, 2008, which included a guidebook titled Death Note 13: How to Read, and a complete omnibus on September 5, 2017. It was also published in Italy by Planet Manga from November 2006 to September 2008; in Brazil by JBC from June 2007 to August 2008, and again in 2-in-1 edition (Black Edition) from June 2013 to December 2013; in Argentina by LARP Editores from May 20, 2009 to April 2012; and in Spanish by Glénat España from June 30, 2006 to Septmber 30, 2007. Norma Editorial republished the series in Spanish as the Black edition from April 11 to September 27, 2013.",
+			"id": 21,
+			"titleEnglish": "Death Note",
+			"score": 8.7,
+			"authors": [
+				{
+					"role": "Art",
+					"id": "8023432C-7333-4D80-880C-8DFC51A55397",
+					"lastName": "Obata",
+					"firstName": "Takeshi"
+				},
+				{
+					"role": "Story",
+					"id": "4EC03177-1882-400E-A0E9-15817337FD96",
+					"lastName": "Ohba",
+					"firstName": "Tsugumi"
+				}
+			],
+			"chapters": 108,
+			"title": "Death Note",
+			"startDate": "2003-12-01T00:00:00Z"
+		},
+		{
+			"sypnosis": "The whistle blows. The ball is up. A dig. A set. A spike.\n\nVolleyball. A sport where two teams face off, separated by a formidable, wall-like net.\n\nThe \"Little Giant,\" standing at only 170 cm, overcomes the towering net and the wall of blockers. The awe-inspired Shouyou Hinata looks on at the ace's crow-like figure. Determined to reach great heights like the Little Giant, small-statured Hinata finally manages to form a team in his last year of junior high school, and enters his first volleyball tournament. However, his team is utterly defeated in their first game against the powerhouse school Kitagawa Daiichi, led by the genius, but oppressive setter dubbed the \"King of the Court,\" Tobio Kageyama.\n\nHinata enrolls into Karasuno High School seeking  to take revenge against Kageyama in an official high school match and to follow in the Little Giant's footsteps—but his plans are ruined when he opens the gymnasium door to find Kageyama as one of his teammates.\n\nNow, Hinata must establish himself on the team and work alongside the problematic Kageyama to overcome his shortcomings and to fulfill his dream of making it to the top of the high school volleyball world.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 14: Nisekyuu!!",
+			"demographics": [
+				{
+					"demographic": "Shounen",
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169"
+				}
+			],
+			"themes": [
+				{
+					"theme": "School",
+					"id": "3373890E-8E6C-4AB8-A190-FEC6E8C7369D"
+				},
+				{
+					"theme": "Team Sports",
+					"id": "5EF60632-11E2-4013-9781-94BB6533B43F"
+				}
+			],
+			"startDate": "2012-02-20T00:00:00Z",
+			"endDate": "2020-07-20T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/258225l.jpg",
+			"url": "https://myanimelist.net/manga/35243/Haikyuu",
+			"genres": [
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				},
+				{
+					"genre": "Sports",
+					"id": "BFEB29C0-0528-4885-B98E-5F98059206E4"
+				}
+			],
+			"volumes": 45,
+			"titleJapanese": "ハイキュー!!",
+			"id": 35243,
+			"background": "Haikyuu!! won the 61st Shogakukan Manga Award for the shounen category in 2015. The series was published in English by VIZ Media under the Shonen Jump imprint from July 5, 2016 to August 3, 2021.",
+			"titleEnglish": "Haikyu!!",
+			"score": 8.84,
+			"authors": [
+				{
+					"firstName": "Haruichi",
+					"role": "Story & Art",
+					"id": "81C31E66-2964-4B6C-AB41-F03807183844",
+					"lastName": "Furudate"
+				}
+			],
+			"chapters": 407,
+			"title": "Haikyuu!!",
+			"status": "finished"
+		},
+		{
+			"sypnosis": "Sixteen-year-old Ai Hoshino is a talented and beautiful idol who is adored by her fans. She is the personification of a pure, young maiden. But all that glitters is not gold.\n\nGorou Amemiya is a countryside gynecologist and a big fan of Ai. So when the pregnant idol shows up at his hospital, he is beyond bewildered. Gorou promises her a safe delivery. Little does he know, an encounter with a mysterious figure would result in his untimely death—or so he thought.\n\nOpening his eyes in the lap of his beloved idol, Gorou finds that he has been reborn as Aquamarine Hoshino—Ai's newborn son! With his world turned upside down, Gorou soon learns that the world of showbiz is paved with thorns, where talent does not always beget success. Will he manage to protect Ai's smile that he loves so much with the help of an eccentric and unexpected ally?\n\n[Written by MAL Rewrite]",
+			"demographics": [
+				{
+					"id": "D1286719-7903-4B57-9956-6152219972E8",
+					"demographic": "Seinen"
+				}
+			],
+			"status": "currently_publishing",
+			"themes": [
+				{
+					"theme": "Reincarnation",
+					"id": "35105015-1451-4228-9F3C-F82F1EECC166"
+				},
+				{
+					"theme": "Showbiz",
+					"id": "EE176595-6794-4546-B094-879AE75A1BA7"
+				}
+			],
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/233991l.jpg",
+			"url": "https://myanimelist.net/manga/126146/Oshi_no_Ko",
+			"titleJapanese": "【推しの子】",
+			"volumes": null,
+			"genres": [
+				{
+					"genre": "Drama",
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA"
+				},
+				{
+					"genre": "Supernatural",
+					"id": "3CE59EE7-EF32-4726-B1B9-DB255A3CBC85"
+				}
+			],
+			"id": 126146,
+			"background": "\"Oshi no Ko\" has been published digitally in English through MANGA Plus. The volumes have been published by Yen Press since January 17, 2023.",
+			"titleEnglish": "[Oshi No Ko]",
+			"score": 8.68,
+			"authors": [
+				{
+					"firstName": "Aka",
+					"role": "Story & Art",
+					"id": "2C233D52-AFD5-40F3-983C-7DE208A7276C",
+					"lastName": "Akasaka"
+				},
+				{
+					"firstName": "Mengo",
+					"role": "Art",
+					"id": "BB115377-0226-4661-AAB7-0CDEC47F0A0A",
+					"lastName": "Yokoyari"
+				}
+			],
+			"chapters": null,
+			"title": "\"Oshi no Ko\"",
+			"startDate": "2020-04-23T00:00:00Z"
+		},
+		{
+			"sypnosis": "Contains 6 short stories:\n\n1. Fu Jun Ai\nOne day, Onosaka Kumiko returns home from grocery shopping and finds a stranger waiting for her in front of her house. The stranger turns out to be Shinohara Yuki, an old crush and work colleague of Kumiko's who quit 3 years earlier because of an incurable illness, and all he wants is to confess to Kumiko before he dies. Knowing that he'll die soon, Kumiko takes pity on Shinohara, invites him to live with her, and soon becomes his lover. But are her feelings really only pity? And is there something Shinohara's hiding too...?\n\n2. A sin to love you\nYuu is the top hostess at an escort club for a reason: she loves getting her guy—but she loves being in control even more! So when shy and conservative Mochizuki becomes her newest client, his reserved behavior perplexes her. Every night she pulls out her best feminine wiles, so why isn't he falling for her already? In desperation, she drags the hapless \"Shin-kun\" to a love hotel, where she discovers a very interesting secret about him. Could it be that the tables have turned and now Yuu is the one in danger of falling for Shin-kun? And is that the only secret of the man of her dreams?\n\n3. Can't live without you\nA follow-up to \"A sin to love you\".\n*NOTE: A follow-up to this can be found as an extra in the series Private Prince.\n\n4. The Deceitful Fingers\nWhen homeroom teacher Miyagi's assistant goes on maternity leave, her replacement is the handsome Kiritani Riku. For Miyagi, it's attraction at first sight, but Kiritani seems stuck on an unrequited love—a former teacher of his and the reason why he came a teacher himself. Crushed, Miyagi gets drunk at a welcome party for Kiritani and passes out in front of everyone, but she wakes up to a most unexpected companion...and an even more unexpected proposition!\n\n5. Can I love you dearly?\nNishizawa's supervisor Nagase is a devil! His handsome facade can't hide his critical and exacting management style. Then she discover's his secret- he's a fanatical pet owner that loves his cat.\nThe softer side of Nagase is proving devastating to Nishizawa's vision of her boss!\n\n6. How Shinohara-san spends his weekend (bonus story)\n\n(Source: MU)",
+			"startDate": "2004-01-01T00:00:00Z",
+			"themes": [],
+			"demographics": [
+				{
+					"id": "47C51BC3-A46E-4D90-848B-35A9350BB155",
+					"demographic": "Josei"
+				}
+			],
+			"endDate": "2004-01-01T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/1/32113l.jpg",
+			"url": "https://myanimelist.net/manga/11272/Fu_Junai",
+			"volumes": 1,
+			"titleJapanese": "不・純愛",
+			"genres": [
+				{
+					"id": "A370D866-199E-4239-9F7A-0ABFA82FC904",
+					"genre": "Romance"
+				}
+			],
+			"id": 11272,
+			"background": null,
+			"titleEnglish": null,
+			"score": 6.92,
+			"authors": [
+				{
+					"id": "AC1C5240-2A5F-495C-A8C6-FEA60DB7F689",
+					"firstName": "Maki",
+					"lastName": "Enjouji",
+					"role": "Story & Art"
+				}
+			],
+			"chapters": 6,
+			"title": "Fu Junai",
+			"status": "finished"
+		},
+		{
+			"sypnosis": "Ten years ago, \"the Gate\" appeared and connected the real world with the realm of magic and monsters. To combat these vile beasts, ordinary people received superhuman powers and became known as \"Hunters.\" Twenty-year-old Sung Jin-Woo is one such Hunter, but he is known as the \"World's Weakest,\" owing to his pathetic power compared to even a measly E-Rank. Still, he hunts monsters tirelessly in low-rank Gates to pay for his mother's medical bills. \n\nHowever, this miserable lifestyle changes when Jin-Woo—believing himself to be the only one left to die in a mission gone terribly wrong—awakens in a hospital three days later to find a mysterious screen floating in front of him. This \"Quest Log\" demands that Jin-Woo completes an unrealistic and intense training program, or face an appropriate penalty. Initially reluctant to comply because of the quest's rigor, Jin-Woo soon finds that it may just transform him into one of the world's most fearsome Hunters. \n\n[Written by MAL Rewrite]",
+			"demographics": [],
+			"themes": [],
+			"status": "finished",
+			"endDate": "2023-05-31T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/222295l.jpg",
+			"url": "https://myanimelist.net/manga/121496/Solo_Leveling",
+			"genres": [
+				{
+					"genre": "Action",
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0"
+				},
+				{
+					"genre": "Adventure",
+					"id": "FB73BD8F-28C4-42D6-BEA4-BBC960223C64"
+				},
+				{
+					"genre": "Fantasy",
+					"id": "1B0C8938-9EED-45E4-8782-C54C23207747"
+				}
+			],
+			"volumes": null,
+			"titleJapanese": "나 혼자만 레벨업",
+			"background": "Solo Leveling is a webtoon series which has been officially published in book format by D&C Media (디앤씨미디어) since September 26, 2019. It originally ended with 179 chapters on December 29, 2021, and side stories began serialization on January 20, 2023. The side stories are drawn by Disciples after the death of original artist Sung-rak Jang. The series has been published digitally in English by Tappytoon since June 4, 2020, and in print by Yen Press since March 2, 2021. It has also been published in French by Delcourt since April 7, 2021.",
+			"id": 121496,
+			"titleEnglish": "Solo Leveling",
+			"score": 8.68,
+			"authors": [
+				{
+					"firstName": "",
+					"role": "Story",
+					"id": "162FE1C9-50B7-45B2-9C87-BFFAB09019CB",
+					"lastName": "Chugong"
+				},
+				{
+					"firstName": "Sung-rak",
+					"role": "Art",
+					"id": "42BB49F1-779F-42F7-9995-ED085E16403A",
+					"lastName": "Jang"
+				},
+				{
+					"firstName": "",
+					"role": "Art",
+					"id": "CF63F363-10B3-457B-AA5C-8E8AC9D84DD2",
+					"lastName": "Disciples"
+				}
+			],
+			"chapters": 201,
+			"title": "Solo Leveling",
+			"startDate": "2018-03-04T00:00:00Z"
+		},
+		{
+			"startDate": "1990-09-18T00:00:00Z",
+			"demographics": [
+				{
+					"demographic": "Shounen",
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169"
+				}
+			],
+			"themes": [
+				{
+					"theme": "School",
+					"id": "3373890E-8E6C-4AB8-A190-FEC6E8C7369D"
+				},
+				{
+					"theme": "Team Sports",
+					"id": "5EF60632-11E2-4013-9781-94BB6533B43F"
+				}
+			],
+			"sypnosis": "Hanamichi Sakuragi, a tall, boisterous teenager with flame-red hair and physical strength beyond his years, is eager to put an end to his rejection streak of 50 and finally score a girlfriend as he begins his first year of Shohoku High. However, his reputation for delinquency and destructiveness precedes him, and most of his fellow students subsequently avoid him like the plague. As his first day of school ends, he is left with two strong thoughts: \"I hate basketball\" and \"I need a girlfriend.\"\n\nHaruko Akagi, ignorant of Hanamichi's history of misbehavior, notices his immense height and unwittingly approaches him, asking whether or not he likes basketball. Overcome by the fact that a girl is speaking to him, the red-haired giant blurts out a yes despite his true feelings. At the gym, Haruko asks if he can do a slam dunk. Though a complete novice, Hanamachi palms the ball and makes the leap...but overshoots, slamming his head into the backboard. Amazed by his near-inhuman physical abilities, Haruko quickly notifies the school's basketball captain of his feat. With this, Hanamichi is unexpectedly thrust into a world of competition for a girl he barely knows, but he soon discovers that there is perhaps more to basketball than he once thought.\n\n[Written by MAL Rewrite]",
+			"endDate": "1996-06-04T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/258749l.jpg",
+			"url": "https://myanimelist.net/manga/51/Slam_Dunk",
+			"genres": [
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				},
+				{
+					"genre": "Sports",
+					"id": "BFEB29C0-0528-4885-B98E-5F98059206E4"
+				}
+			],
+			"volumes": 31,
+			"titleJapanese": "SLAM DUNK",
+			"background": "Slam Dunk was awarded the 40th Shogakukan Manga Award for best shounen manga in 1994. In a 2006 poll for the 10th Japan Media Arts Festival, the series was voted by Japanese fans as the #1 manga series of all time. With over 120 million copies sold as of 2012, it is one of the most successful manga series to date. Its wide success led to a large increase in the popularity of basketball in Japanese youth. In 2010, Takehiko Inoue received special commendations from the Japan Basketball Association for popularizing basketball in Japan. The series was published in English by Gutsoon! Entertainment under the Raijin Comics Imprint for five volumes from July 2, 2003 to May 5, 2004. After Gutsoon's shutdown, publishing rights to Slam Dunk were purchased by VIZ Media who then republished the series under the Shonen Jump imprint from September 2, 2008 to December 3, 2013. It was published in Spanish by Ivrea España from February 2003 to September 2005 and republished in Kanzenban from January 2010 to May 2016.",
+			"id": 51,
+			"titleEnglish": "Slam Dunk",
+			"score": 9.08,
+			"authors": [
+				{
+					"firstName": "Takehiko",
+					"role": "Story & Art",
+					"id": "54FC06F5-546C-4FA0-A5A6-48317E78C454",
+					"lastName": "Inoue"
+				}
+			],
+			"chapters": 276,
+			"title": "Slam Dunk",
+			"status": "finished"
+		},
+		{
+			"sypnosis": "\"Secret treasure hoards, undiscovered wealth... mystical places, unexplored frontiers... 'The mysterious unknown.' There's magic in such words for those captivated by its spell. They are called 'Hunters'!\"\n\nGon Freecss wants to become a Hunter so he can find his father, a man who abandoned him to pursue a life of adventure. But it's not that simple: only one in one hundred thousand can pass the Hunter Exam, and that is just the first obstacle on his journey. During the Hunter Exam, Gon befriends many other potential Hunters, such as the mysterious Killua; the revenge-driven Kurapika; and Leorio, who aims to become a doctor. There's a world of adventure and peril awaiting, and those who embrace it with open arms can become the greatest Hunters of them all!\n\n[Written by MAL Rewrite]",
+			"demographics": [
+				{
+					"demographic": "Shounen",
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169"
+				}
+			],
+			"themes": [],
+			"startDate": "1998-03-03T00:00:00Z",
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/253119l.jpg",
+			"url": "https://myanimelist.net/manga/26/Hunter_x_Hunter",
+			"volumes": null,
+			"titleJapanese": "HUNTER×HUNTER",
+			"genres": [
+				{
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0",
+					"genre": "Action"
+				},
+				{
+					"id": "FB73BD8F-28C4-42D6-BEA4-BBC960223C64",
+					"genre": "Adventure"
+				},
+				{
+					"id": "1B0C8938-9EED-45E4-8782-C54C23207747",
+					"genre": "Fantasy"
+				}
+			],
+			"id": 26,
+			"background": "Hunter x Hunter has been published in English by VIZ Media under the Shonen Jump Advanced imprint since April 5, 2005; in Brazilian Portuguese by Jbc since January 2008; in Spanish by Panini Comics since October 2012; and in Italian by Panini Comics. The series has been serialized irregularly since 2006 due to Yoshihiro Togashi's health problems.",
+			"titleEnglish": "Hunter x Hunter",
+			"score": 8.73,
+			"authors": [
+				{
+					"id": "66A413C2-7F82-4A3A-B9BF-79B7669F3025",
+					"firstName": "Yoshihiro",
+					"role": "Story & Art",
+					"lastName": "Togashi"
+				}
+			],
+			"chapters": null,
+			"title": "Hunter x Hunter",
+			"status": "currently_publishing"
+		},
+		{
+			"sypnosis": "Among the seaside town of Izu's ocean waves and rays of shining sun, Iori Kitahara is just beginning his freshman year at Izu University. As he moves into his uncle's scuba diving shop, Grand Blue, he eagerly anticipates his dream college life, filled with beautiful girls and good friends.\n\nBut things don't exactly go according to plan. Upon entering the shop, he encounters a group of rowdy, naked upperclassmen, who immediately coerce him into participating in their alcoholic activities. Though unwilling at first, Iori quickly gives in and becomes the heart and soul of the party. Unfortunately, this earns him the scorn of his cousin, Chisa Kotegawa, who walks in at precisely the wrong time. Undeterred, Iori still vows to realize his ideal college life, but will things go according to plan this time, or will his situation take yet another dive?\n\n[Written by MAL Rewrite]",
+			"status": "currently_publishing",
+			"themes": [],
+			"demographics": [
+				{
+					"demographic": "Seinen",
+					"id": "D1286719-7903-4B57-9956-6152219972E8"
+				}
+			],
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/166124l.jpg",
+			"url": "https://myanimelist.net/manga/70345/Grand_Blue",
+			"titleJapanese": "ぐらんぶる",
+			"volumes": null,
+			"genres": [
+				{
+					"genre": "Comedy",
+					"id": "955A4456-EE84-4217-B15C-27C33760C371"
+				}
+			],
+			"id": 70345,
+			"background": "Grand Blue has been published digitally in English as Grand Blue Dreaming by Kodansha Comics USA since September 12, 2017, and it has also been simulpub. The series has been published in French by Meian since February 24, 2021.",
+			"titleEnglish": "Grand Blue Dreaming",
+			"score": 9.03,
+			"authors": [
+				{
+					"lastName": "Inoue",
+					"role": "Story",
+					"firstName": "Kenji",
+					"id": "63FF4CA8-6DB5-4645-8A63-FE6F1DE7025B"
+				},
+				{
+					"lastName": "Yoshioka",
+					"role": "Art",
+					"firstName": "Kimitake",
+					"id": "25872DC7-ED77-452B-82B6-E3DE22767618"
+				}
+			],
+			"chapters": null,
+			"title": "Grand Blue",
+			"startDate": "2014-04-07T00:00:00Z"
+		},
+		{
+			"sypnosis": "Helpless and struggling for cash, 20-year-old Kusunoki sells the last of his possessions to buy food. Noticing his poverty, an old shop owner directs him to a store that supposedly purchases lifespan, time, and health. While not completely believing the man's words, Kusunoki nevertheless finds himself at the address out of desperation and curiosity.\n\nKusunoki is crushed when he finds out the true monetary value of his lifespan—totaling a meager three hundred thousand yen. Deciding to sell the next 30 years of his life for ten thousand yen per year, Kusunoki is left with only three months to live. After heading home with the money, he is greeted by an unexpected visitor: the same store clerk he sold his lifespan to. She introduces herself as Miyagi, the one tasked with the job of observing him until the last three days of his life.\n\nJumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de. follows the remaining three months of Kusunoki's life as he confronts lingering regrets from the past and discovers what truly gives life value.\n\n[Written by MAL Rewrite]",
+			"demographics": [
+				{
+					"demographic": "Shounen",
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169"
+				}
+			],
+			"themes": [],
+			"startDate": "2016-08-10T00:00:00Z",
+			"endDate": "2017-10-25T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/5/260043l.jpg",
+			"url": "https://myanimelist.net/manga/100448/Jumyou_wo_Kaitotte_Moratta_Ichinen_ni_Tsuki_Ichimanen_de",
+			"genres": [
+				{
+					"genre": "Drama",
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA"
+				}
+			],
+			"volumes": 3,
+			"titleJapanese": "寿命を買い取ってもらった。一年につき、一万円で。",
+			"background": "The series is based on the novel Mikkakan no Koufuku (三日間の幸福) by Sugaru Miaki.",
+			"id": 100448,
+			"titleEnglish": "I sold my life for ten thousand yen per year.",
+			"score": 8.79,
+			"authors": [
+				{
+					"role": "Art",
+					"id": "0BD053DE-0563-4927-8C00-0561FDC6C3E2",
+					"lastName": "Taguchi",
+					"firstName": "Shouichi"
+				},
+				{
+					"role": "Story",
+					"id": "8BD2CAEB-AEE6-45AB-AC0A-407899128B07",
+					"lastName": "Miaki",
+					"firstName": "Sugaru"
+				}
+			],
+			"chapters": 18,
+			"title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
+			"status": "finished"
+		},
+		{
+			"sypnosis": "Nanako Yukishiro is an average cute and cheerful high school girl, except for the fact that she does not speak! Her only method of communicating her thoughts and feelings is through senryuu—a form of haiku which utilizes the 5-7-5 format.\n\nSurrounded by friends such as the misunderstood ex-delinquent Eiji Busujima, stalkerish and eternally single club president Amane Katagiri, shy but talkative artist Kino Yakobe, mysterious Tao Hanakai, and Eiji's self-proclaimed \"big sister\" Koto Ootsuki, Nanako's high school life has never been more enjoyable.\n\n[Written by MAL Rewrite]",
+			"demographics": [
+				{
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169",
+					"demographic": "Shounen"
+				}
+			],
+			"themes": [
+				{
+					"theme": "School",
+					"id": "3373890E-8E6C-4AB8-A190-FEC6E8C7369D"
+				}
+			],
+			"startDate": "2016-10-19T00:00:00Z",
+			"endDate": "2020-04-22T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/3/194981l.jpg",
+			"url": "https://myanimelist.net/manga/105430/Senryuu_Shoujo",
+			"titleJapanese": "川柳少女",
+			"genres": [
+				{
+					"genre": "Comedy",
+					"id": "955A4456-EE84-4217-B15C-27C33760C371"
+				},
+				{
+					"genre": "Slice of Life",
+					"id": "E23AEB35-C2B3-4DC5-9C6F-6AF9C65E3A31"
+				}
+			],
+			"volumes": 13,
+			"background": null,
+			"id": 105430,
+			"titleEnglish": null,
+			"score": 8.02,
+			"authors": [
+				{
+					"lastName": "Igarashi",
+					"id": "EF9A4090-B6EB-4474-9820-E3DCAF1BD045",
+					"role": "Story & Art",
+					"firstName": "Masakuni"
+				}
+			],
+			"chapters": 185,
+			"title": "Senryuu Shoujo",
+			"status": "finished"
+		},
+		{
+			"sypnosis": "22-year-old Eikichi Onizuka: pervert, former gang member... and teacher?\n\nGreat Teacher Onizuka follows the incredible, though often ridiculous, antics of the titular teacher as he attempts to outwit and win over the cunning Class 3-4 that is determined to have him removed from the school. However, other obstacles present themselves throughout—including the frustrated, balding vice principal, Hiroshi Uchiyamada; old enemies from his biker days; and his own idiotic teaching methods. But Eikichi fights it all whilst trying to help his students, romance fellow teacher Azusa Fuyutsuki, and earn his self-proclaimed title.\n\n[Written by MAL Rewrite]\n\nAlso contains the gaiden \"GTO: Great Toroko Oppai♡\" (Tomoko's Big Adventures).",
+			"startDate": "1996-12-11T00:00:00Z",
+			"themes": [
+				{
+					"id": "620513A7-B019-4806-A279-0E44AB4C6E7B",
+					"theme": "Delinquents"
+				},
+				{
+					"id": "3373890E-8E6C-4AB8-A190-FEC6E8C7369D",
+					"theme": "School"
+				},
+				{
+					"id": "6B104C89-AA4E-47A3-A5AC-28D5A6011590",
+					"theme": "Workplace"
+				}
+			],
+			"demographics": [
+				{
+					"demographic": "Shounen",
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169"
+				}
+			],
+			"endDate": "2002-01-30T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/172982l.jpg",
+			"url": "https://myanimelist.net/manga/336/GTO",
+			"titleJapanese": "GTO",
+			"volumes": 25,
+			"genres": [
+				{
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0",
+					"genre": "Action"
+				},
+				{
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB",
+					"genre": "Award Winning"
+				},
+				{
+					"id": "955A4456-EE84-4217-B15C-27C33760C371",
+					"genre": "Comedy"
+				},
+				{
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA",
+					"genre": "Drama"
+				},
+				{
+					"id": "F1252E27-E4C8-4C4B-A4FA-F87DD72715A7",
+					"genre": "Ecchi"
+				}
+			],
+			"background": "GTO was awarded the 22nd Kodansha Manga Award for Best Shounen Manga in 1998. The series was published physically in English as GTO: Great Teacher Onizuka by the now defunct Tokyopop from April 23, 2002 to August 9, 2005. Kodansha USA published the digital version of all 25 volume on February 1, 2022. Several live action adaptations of GTO were made. A 12-episode television drama directed by Masayuki Suzuki was broadcast from July 7 to September 22, 1998; it was followed by a film adaptation by the same director released on December 18, 1999. The theatrical version went on to become the 10th highest grossing Japanese film of 2000. A second drama adaptation directed by Imai Kazuhisa was broadcast from July 3 to September 11, 2012. A joint project between Japanese and Taiwanese productions created the dual language project, GTO in Taiwan, also directed by Imai Kazuhisa. The four-episode series was aired first in Taiwan from March 22 to April 12, 2014. These episodes aired in Japan at a later date. Another GTO drama was aired in 2014 directed by Ken Iizuka, eleven episodes were broadcast from July 8, to September 16.",
+			"id": 336,
+			"titleEnglish": "GTO: Great Teacher Onizuka",
+			"score": 8.89,
+			"authors": [
+				{
+					"lastName": "Fujisawa",
+					"firstName": "Tooru",
+					"id": "B6253C4F-5655-45BC-9D8C-A2C87E986ADA",
+					"role": "Story & Art"
+				}
+			],
+			"chapters": 208,
+			"title": "GTO",
+			"status": "finished"
+		},
+		{
+			"sypnosis": "During the Warring States period in China, Xin and Piao are two brother-like youngsters who dream of becoming Great Generals, despite their low status as orphaned slaves. One day, they encounter a man of nobility, who gives Piao an opportunity to undertake an important duty within the state of Qin's royal palace. Parting ways, Xin and Piao promise each other to one day become the greatest generals in the world. However, after a fierce coup d'état occurs in the palace, Xin meets with a dying Piao, whose last words spur him into action and lead him to encounter the young and soon-to-be king of Qin, Zheng Ying.\n\nAlthough initially on bad terms, Xin and Zheng become comrades and start on a path filled with trials and bloodshed. Zheng's objective is to bring all the warring states under Qin, and Xin seeks to climb to the very top of the army ranks. Against a backdrop of constant tactical battle between states and great political unrest, both outside and within the palace, the two endeavor towards their monumental ambitions that will change history forever.\n\n[Written by MAL Rewrite]",
+			"demographics": [
+				{
+					"demographic": "Seinen",
+					"id": "D1286719-7903-4B57-9956-6152219972E8"
+				}
+			],
+			"themes": [
+				{
+					"theme": "Historical",
+					"id": "475B8B2E-EE5D-4DF8-B207-1BE39875FA07"
+				},
+				{
+					"theme": "Military",
+					"id": "44542DDE-56CD-4715-A2F3-CB5C58B8C093"
+				}
+			],
+			"status": "currently_publishing",
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/171872l.jpg",
+			"url": "https://myanimelist.net/manga/16765/Kingdom",
+			"titleJapanese": "キングダム",
+			"genres": [
+				{
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0",
+					"genre": "Action"
+				},
+				{
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB",
+					"genre": "Award Winning"
+				}
+			],
+			"volumes": null,
+			"background": "In 2013, Kingdom was awarded the 17th Annual Tezuka Osamu Cultural Grand Prize. As of April 2017, the series has sold 30 million copies. On December 12, 2012 the series won a Guinness World Record for manga written by the most people. The record was made possible due to its \"Social Kingdom\" Campaign where artists, fans, and voice actors redrew the entire 26th volume. Each of them picked 1 frame and redrew it and the top 100 would be given a special edition of the manga. (One Piece), (Naruto), (JoJo no Kimyou na Bouken) and many others were among the participants. A live-action movie of Kingdom was released on April 19, 2019, and another one on July 15, 2022.",
+			"id": 16765,
+			"titleEnglish": null,
+			"score": 9,
+			"authors": [
+				{
+					"lastName": "Hara",
+					"firstName": "Yasuhisa",
+					"role": "Story & Art",
+					"id": "76C4D621-7B25-445D-B1EE-56D21816C760"
+				}
+			],
+			"chapters": null,
+			"title": "Kingdom",
+			"startDate": "2006-01-26T00:00:00Z"
+		},
+		{
+			"status": "finished",
+			"demographics": [
+				{
+					"id": "CFF948DF-A40A-4460-A885-B4DB6C97D169",
+					"demographic": "Shounen"
+				}
+			],
+			"themes": [
+				{
+					"id": "4AA69D54-4729-431F-AF5D-2E71CEC9E61D",
+					"theme": "Gore"
+				},
+				{
+					"id": "44542DDE-56CD-4715-A2F3-CB5C58B8C093",
+					"theme": "Military"
+				},
+				{
+					"id": "7B6AA5F3-DF06-494C-A1DB-98EED6391674",
+					"theme": "Survival"
+				}
+			],
+			"sypnosis": "Hundreds of years ago, horrifying creatures which resembled humans appeared. These mindless, towering giants, called \"Titans,\" proved to be an existential threat, as they preyed on whatever humans they could find in order to satisfy a seemingly unending appetite. Unable to effectively combat the Titans, mankind was forced to barricade themselves within large walls surrounding what may very well be humanity's last safe haven in the world.\n\nIn the present day, life within the walls has finally found peace, since the residents have not dealt with Titans for many years. Eren Yeager, Mikasa Ackerman, and Armin Arlert are three young children who dream of experiencing all that the world has to offer, having grown up hearing stories of the wonders beyond the walls. But when the state of tranquility is suddenly shattered by the attack of a massive 60-meter Titan, they quickly learn just how cruel the world can be. On that day, Eren makes a promise to himself that he will do whatever it takes to eradicate every single Titan off the face of the Earth, with the hope that one day, humanity will once again be able to live outside the walls without fear.\n\n[Written by MAL Rewrite]",
+			"endDate": "2021-04-09T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/37846l.jpg",
+			"url": "https://myanimelist.net/manga/23390/Shingeki_no_Kyojin",
+			"titleJapanese": "進撃の巨人",
+			"genres": [
+				{
+					"genre": "Action",
+					"id": "EE6C77C3-53E0-4283-B6FB-B96355CBF1D0"
+				},
+				{
+					"genre": "Award Winning",
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB"
+				},
+				{
+					"genre": "Drama",
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA"
+				}
+			],
+			"volumes": 34,
+			"id": 23390,
+			"background": "Shingeki no Kyojin won the Kodansha Manga Award in the shounen category in 2011 and was nominated for both the 16th and 18th annual Tezuka Osamu Cultural Prize as well as the 4th Manga Taishou Award. The series was the second highest selling manga series of 2013, with 15,933,801 copies sold. It has received several spin-off series—both manga and novel; two guidebooks titled Inside and Outside were released on April 9 and September 9, 2013, featuring concept art, character profiles and interviews, which were combined into one and published by Kodansha USA on September 16, 2014; a drama CD created with the anime's staff was included in the January 2014 issue of the magazine; and a two-part live-action film directed by Shinji Higuchi was released in Japanese theaters on August 1 and September 15, 2015 respectively. Shingeki no Kyojin was published in English as Attack on Titan by Kodansha Comics USA from June 19, 2012 to October 19, 2021, and in large-size 5-in-1 omnibus editions (subtitled Colossal Edition) from May 27, 2014 to November 29, 2022, and as 3-in-1 omnibus volumes since October 19, 2021. Kodansha USA's English release won the 2014 Harvey Award for Best American Edition of Foreign Material. Crunchyroll simulpublished the manga digitally. The manga has also been published in French by Pika Édition, in Italian by Planet Manga, in German by Carlsen Comics, in Spanish by Norma Editorial in Spain and by Ovni Press in Argentina, in Portuguese by Panini Comics, in Polish by Japonica Polonica Fantastica, in Chinese by Tong Li Publishing Co., Ltd., in Filipino by VIVA-PSICOM Publishing Corporation, in Finnish by Sangatsu Manga, in Russian by Azbooka, and in Turkish by GEREKLİ ŞEYLER Büyük Mavi Yayıncılık Ltd. Şti.",
+			"titleEnglish": "Attack on Titan",
+			"score": 8.55,
+			"authors": [
+				{
+					"role": "Story & Art",
+					"id": "07332F15-C4B9-47CC-B5EC-F43344BCBBB9",
+					"lastName": "Isayama",
+					"firstName": "Hajime"
+				}
+			],
+			"chapters": 141,
+			"title": "Shingeki no Kyojin",
+			"startDate": "2009-09-09T00:00:00Z"
+		},
+		{
+			"sypnosis": "When the responsibilities of being an adult and the ugly side of corporate bullying betrays one's childhood dreams, many would wish to return to their innocent childhood to relive their life and make the right decisions. Dumbfounded by the offer presented to him, 27-year-old Arata Kaizaki hopes to turn his life around through a once-in-a-lifetime opportunity.\n\nReturning home from his part-time job, Arata is persuaded by Ryou Yoake, an employee of ReLife Research Institute, into participating in an experiment which will help him overcome his difficulties and re-enter corporate life. As part of the ReLife experiment, Arata's physique is reverted to that of a 17-year-old, and all he must do is relive his high school life for one year. Waiting for him at the end of the experiment is a job offer that he has been struggling to get ever since he left his first company.\n\nWith few other options, he decides to go along with this plan. However, with adult-like tendencies and many years since his last formal education, Arata steps into an unexpectedly challenging territory—a normal day of high school.\n\n[Written by MAL Rewrite]",
+			"demographics": [],
+			"themes": [
+				{
+					"id": "3373890E-8E6C-4AB8-A190-FEC6E8C7369D",
+					"theme": "School"
+				}
+			],
+			"startDate": "2013-10-12T00:00:00Z",
+			"endDate": "2018-03-16T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/2/171573l.jpg",
+			"url": "https://myanimelist.net/manga/78523/ReLIFE",
+			"volumes": 15,
+			"titleJapanese": "ReLIFE",
+			"genres": [
+				{
+					"genre": "Comedy",
+					"id": "955A4456-EE84-4217-B15C-27C33760C371"
+				},
+				{
+					"genre": "Drama",
+					"id": "6229F9D0-3B1E-4E22-AAAF-F230B25C53FA"
+				},
+				{
+					"genre": "Romance",
+					"id": "A370D866-199E-4239-9F7A-0ABFA82FC904"
+				},
+				{
+					"genre": "Slice of Life",
+					"id": "E23AEB35-C2B3-4DC5-9C6F-6AF9C65E3A31"
+				}
+			],
+			"background": "ReLIFE was partially simulpublished in English by Crunchyroll from December 21, 2015 to April 30, 2017. It has also been published in Polish by Waneko since October 1, 2016. The series was nominated for Best General Manga at the 39th Kodansha Manga Awards in 2015.",
+			"id": 78523,
+			"titleEnglish": "ReLIFE",
+			"score": 8.65,
+			"authors": [
+				{
+					"role": "Story & Art",
+					"firstName": "Sou",
+					"lastName": "Yayoi",
+					"id": "F498DC8B-7F22-4163-9C68-3391515D83A9"
+				}
+			],
+			"chapters": 238,
+			"title": "ReLIFE",
+			"status": "finished"
+		},
+		{
+			"sypnosis": "While most people find the world mundane, five-year-old Yotsuba Koiwai sees it as a treasure trove of amazing bustle and wonderful places to explore. When she and her adoptive father, Yousuke, move to a new city, the energetic young girl naturally sets out to investigate the neighborhood on her own.\n\nAfter a few incidents at the local park, the Koiwais become acquainted with their neighbors, the Ayase family. Their three daughters—mischievous college student Asagi, responsible high school student Fuuka, and kindhearted grade school student Ena—eventually all take a liking to Yotsuba and join in on her antics, despite their sheer ridicule.\n\nFrom learning how to use a swing to figuring out how to stop global warming with air conditioners, Yotsuba's ability to infallibly find fun in everything, both amazes and annoys the people around her. Along with Yousuke, the Ayases, and friends she makes along the way, Yotsuba embarks on daily adventures, each one a step in her quest to enjoy the simple things in life.\n\n[Written by MAL Rewrite]",
+			"demographics": [],
+			"status": "currently_publishing",
+			"themes": [
+				{
+					"id": "3D2EAB23-C80F-4540-BAAB-B87988367B6C",
+					"theme": "Childcare"
+				},
+				{
+					"id": "3FC9C0F1-AB4B-4388-94BC-8B9B234997E9",
+					"theme": "Iyashikei"
+				}
+			],
+			"endDate": null,
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/5/259524l.jpg",
+			"url": "https://myanimelist.net/manga/104/Yotsuba_to",
+			"titleJapanese": "よつばと!",
+			"genres": [
+				{
+					"id": "B019364E-8466-4DA3-B3A8-16B2D24759BB",
+					"genre": "Award Winning"
+				},
+				{
+					"id": "955A4456-EE84-4217-B15C-27C33760C371",
+					"genre": "Comedy"
+				},
+				{
+					"id": "E23AEB35-C2B3-4DC5-9C6F-6AF9C65E3A31",
+					"genre": "Slice of Life"
+				}
+			],
+			"volumes": null,
+			"id": 104,
+			"background": "In 2006, Yotsuba to! received an Excellence Award in manga category at Japan Media Arts Festival where the jury citation praised the vivid characters and gentle atmosphere the manga has. In 2008, the series was nominated for the 12th Osamu Tezuka Culture Award and the Eisner Award \"Best Publication for Kids\" category, but did not win either one. It was also a runner-up for the first annual Manga Taishou award. In 2016, the series, along with Hanagami Sharaku, was awarded the 20th Tezuka Osamu Cultural Prize Grand Prize. The series was first published in English by ADV Manga as Yotsuba&!. Six volumes were released from June 6, 2005 to October 31, 2007 before publication was discontinued. Yen Press has published the series since September 15, 2009. It has also been published in Spanish by Norma Editorial since November 2005. It has been licensed in Polish by Wydawnictwo Kotori.",
+			"titleEnglish": "Yotsuba&!",
+			"score": 8.88,
+			"authors": [
+				{
+					"id": "05993B5A-C65E-4B65-81C7-5C55D4408AF8",
+					"role": "Story & Art",
+					"lastName": "Azuma",
+					"firstName": "Kiyohiko"
+				}
+			],
+			"chapters": null,
+			"title": "Yotsuba to!",
+			"startDate": "2003-03-21T00:00:00Z"
+		},
+		{
+			"status": "finished",
+			"demographics": [
+				{
+					"id": "D2573841-FA6F-4CEE-B7C6-9CDF5922EC48",
+					"demographic": "Shoujo"
+				}
+			],
+			"themes": [
+				{
+					"id": "277FBB4B-F71A-4F90-8241-5DC6D85482A1",
+					"theme": "Psychological"
+				}
+			],
+			"sypnosis": "A young man reads the suicide note from his deceased sister...",
+			"endDate": "1995-01-01T00:00:00Z",
+			"mainPicture": "https://cdn.myanimelist.net/images/manga/1/11775l.jpg",
+			"url": "https://myanimelist.net/manga/4743/Die",
+			"titleJapanese": null,
+			"volumes": 1,
+			"genres": [
+				{
+					"id": "A370D866-199E-4239-9F7A-0ABFA82FC904",
+					"genre": "Romance"
+				}
+			],
+			"background": null,
+			"id": 4743,
+			"titleEnglish": null,
+			"score": 6.53,
+			"authors": [
+				{
+					"id": "5876CCC0-0C50-4891-8573-412B990E7AEC",
+					"role": "Story & Art",
+					"lastName": "Yuki",
+					"firstName": "Kaori"
+				}
+			],
+			"chapters": null,
+			"title": "Die",
+			"startDate": "1995-01-01T00:00:00Z"
+		}
+	],
+	"metadata": {
+		"per": 30,
+		"total": 24039,
+		"page": 1
+	}
+}
